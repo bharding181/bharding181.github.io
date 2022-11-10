@@ -1,0 +1,21 @@
+body {
+                    padding:0;
+                    margin:0
+                   }
+#titlerectangle{
+    padding:0;
+    margin:0;
+    height: 150px;
+    wdith: 3000px;
+    background-color: #23395d
+}
+#titlefont{
+    left: 300px;
+    font-size: 40px;
+    color: #FFFFFF;
+}
+
+#headingfont{
+    font-size:30px
+    color: #FFFFFF
+}
